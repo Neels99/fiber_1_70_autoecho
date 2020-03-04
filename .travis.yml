@@ -1,3 +1,7 @@
 language: c++
 compiler: clang
+addons:
+  apt:
+    packages:
+    - cmake
 
